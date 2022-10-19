@@ -15,12 +15,12 @@ def home():
 @app.route("/", methods=["GET", "POST"])
 def cities():
     if request.method == "POST":
-        # try:
+        try:
             country = request.form.get("country")
             list_cities = list(countries[country])
             return render_template('index.html',searched = country,foobar=list_cities)
-        # except:
-        #     return "<p>coundn't process</p>"
+        except:
+            return "<p>coundn't process</p>"
 
 
 if __name__ == "__main__":
