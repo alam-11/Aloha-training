@@ -1,89 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41927e76-00ec-4a79-a611-709af9b774b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Aloha training.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/maximum_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/repeated_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/array and dictionary/two_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/modules/arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/modules/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/oops/abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/oops/encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/oops/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/oops/polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate.nu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/activate_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/deactivate.nu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pip-3.10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pip.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pip3.10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pip3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pydoc.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/wheel-3.10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/wheel.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/wheel3.10.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/Scripts/wheel3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/training_env/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/1 diffrent data types in python/variables and data types/basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/File_Handling_open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/append_mode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/copy_and_rename.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/create_mode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-1/file handling/write_mode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries/countries.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask tutorial/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask tutorial/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask tutorial/static/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask tutorial/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/garbage collection/reference_counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/img/post-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/assets/img/post-sample-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python flask tutorial/templates/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/modules/arithmetic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/modules/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/oops/abstraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/oops/encapsulation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/oops/inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 diffrent data types in python/oops/polymorphism.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file handling/handle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualEnvTut/requirements.txt" beforeDir="false" />
+    <list default="true" id="41927e76-00ec-4a79-a611-709af9b774b2" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/img/about-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/img/contact-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/img/home-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/img/post-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/assets/img/post-sample-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/assets/img/post-sample-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/static/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python flask tutorial/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,6 +191,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665825339600</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1666154822857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666154822857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,5 +214,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
