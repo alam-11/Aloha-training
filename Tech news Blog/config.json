@@ -2,12 +2,15 @@
   "params":
   {
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/clean_post",
-    "prod_uri": "mysql://root:@localhost/clean_post",
+    "local_uri": "mysql://root:@localhost/tech_news",
+    "prod_uri": "mysql://root:@localhost/tech_news",
     "fb_url": "https:facebook.com/clean_post",
     "tw_url": "https:twitter.com/clean_post",
     "gh_url": "https:github.com/clean_post",
     "gmail-user": "tempmailpersonal@gmail.com",
-    "gmail-pass": "hacky786@"
+    "gmail-pass": "hacky786@",
+    "admin_user": "admin",
+    "admin_password": "admin",
+    "secret_key": "super_secret"
   }
 }

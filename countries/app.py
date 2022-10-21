@@ -1,10 +1,11 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template,request
 import json
 
 app = Flask(__name__)
-
-fp = open('countries.json')
+fp = open('static/countries.json')
 countries = json.load(fp)
+
+
 
 
 @app.route("/")
@@ -12,7 +13,7 @@ def home():
     return render_template('index.html')
 
 
-@app.route("/", methods=["GET", "POST"])
+@app.route("/api", methods=["GET", "POST"])
 def cities():
     if request.method == "POST":
         try:

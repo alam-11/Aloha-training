@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41927e76-00ec-4a79-a611-709af9b774b2" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/regex/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech news Blog/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech news Blog/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech news Blog/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech news Blog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask tutorial/instance/test.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-redirect-file-uploading/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-redirect-file-uploading/templates/file_upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-redirect-file-uploading/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-redirect-file-uploading/virtualenvscreenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask-redirect-file-uploading/wallpaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_db_data_interchange/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_db_data_interchange/employee-details.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tech news Blog/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech news Blog/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech news Blog/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech news Blog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tech news Blog/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/countries/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/countries.json" beforeDir="false" afterPath="$PROJECT_DIR$/countries/static/countries.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask tutorial/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask tutorial/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex/regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/regex/regex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +64,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training\countries\static" />
       <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training\python flask tutorial" />
       <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training\countries\templates" />
       <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training\Assignment-1" />
       <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training\1 diffrent data types in python" />
-      <recent name="C:\Users\Alam\OneDrive\Desktop\Aloha training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (3)">
+  <component name="RunManager" selected="Python.app">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Aloha training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (3)" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app (3)" />
         <item itemvalue="Python.regex" />
         <item itemvalue="Python.app (2)" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666155494577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1666171913175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666171913175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

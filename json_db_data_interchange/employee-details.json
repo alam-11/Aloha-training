@@ -1,0 +1,5 @@
+{
+"employee1": {"firstName":"test-1", "lastName":"testing-1"},
+ "employee2":{"firstName":"test-2", "lastName":"testing-2"},
+  "employee3":{"firstName":"Peter", "lastName":"Jones"}
+}
